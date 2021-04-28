@@ -10,7 +10,7 @@ The test starts every hour of every day, in the end of each day generates a grap
 
 Every mouth was a directory in there will have a cvs file and graph for every days and a average cvs file and graph.
 
-This script is to be ussing a cron job. that scedule to iniciate the script every hour for low cpu usage.
+This script is to be using a cron job that scedule to iniciate the script every hour for low cpu usage.
 
 
 
