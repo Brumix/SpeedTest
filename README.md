@@ -20,6 +20,6 @@ Was also a docker file for easy use
 
 MADE BY:
 
-Bruno Pereira
+* Bruno Pereira
 
 
